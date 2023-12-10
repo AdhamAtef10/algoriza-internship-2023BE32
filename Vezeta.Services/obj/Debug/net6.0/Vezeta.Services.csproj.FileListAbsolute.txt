@@ -1,0 +1,15 @@
+C:\Users\Adham\source\repos\Vezeta.APIs.Solution\Vezeta.Services\bin\Debug\net6.0\Vezeta.Services.deps.json
+C:\Users\Adham\source\repos\Vezeta.APIs.Solution\Vezeta.Services\bin\Debug\net6.0\Vezeta.Services.dll
+C:\Users\Adham\source\repos\Vezeta.APIs.Solution\Vezeta.Services\bin\Debug\net6.0\Vezeta.Services.pdb
+C:\Users\Adham\source\repos\Vezeta.APIs.Solution\Vezeta.Services\bin\Debug\net6.0\Vezeta.Core.dll
+C:\Users\Adham\source\repos\Vezeta.APIs.Solution\Vezeta.Services\bin\Debug\net6.0\Vezeta.Core.pdb
+C:\Users\Adham\source\repos\Vezeta.APIs.Solution\Vezeta.Services\obj\Debug\net6.0\Vezeta.Services.csproj.AssemblyReference.cache
+C:\Users\Adham\source\repos\Vezeta.APIs.Solution\Vezeta.Services\obj\Debug\net6.0\Vezeta.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adham\source\repos\Vezeta.APIs.Solution\Vezeta.Services\obj\Debug\net6.0\Vezeta.Services.AssemblyInfoInputs.cache
+C:\Users\Adham\source\repos\Vezeta.APIs.Solution\Vezeta.Services\obj\Debug\net6.0\Vezeta.Services.AssemblyInfo.cs
+C:\Users\Adham\source\repos\Vezeta.APIs.Solution\Vezeta.Services\obj\Debug\net6.0\Vezeta.Services.csproj.CoreCompileInputs.cache
+C:\Users\Adham\source\repos\Vezeta.APIs.Solution\Vezeta.Services\obj\Debug\net6.0\Vezeta.Services.csproj.CopyComplete
+C:\Users\Adham\source\repos\Vezeta.APIs.Solution\Vezeta.Services\obj\Debug\net6.0\Vezeta.Services.dll
+C:\Users\Adham\source\repos\Vezeta.APIs.Solution\Vezeta.Services\obj\Debug\net6.0\refint\Vezeta.Services.dll
+C:\Users\Adham\source\repos\Vezeta.APIs.Solution\Vezeta.Services\obj\Debug\net6.0\Vezeta.Services.pdb
+C:\Users\Adham\source\repos\Vezeta.APIs.Solution\Vezeta.Services\obj\Debug\net6.0\ref\Vezeta.Services.dll

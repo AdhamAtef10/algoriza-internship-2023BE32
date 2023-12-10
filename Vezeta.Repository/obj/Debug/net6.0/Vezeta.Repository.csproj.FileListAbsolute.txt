@@ -1,0 +1,15 @@
+C:\Users\Adham\source\repos\Vezeta.APIs.Solution\Vezeta.Repository\bin\Debug\net6.0\Vezeta.Repository.deps.json
+C:\Users\Adham\source\repos\Vezeta.APIs.Solution\Vezeta.Repository\bin\Debug\net6.0\Vezeta.Repository.dll
+C:\Users\Adham\source\repos\Vezeta.APIs.Solution\Vezeta.Repository\bin\Debug\net6.0\Vezeta.Repository.pdb
+C:\Users\Adham\source\repos\Vezeta.APIs.Solution\Vezeta.Repository\bin\Debug\net6.0\Vezeta.Core.dll
+C:\Users\Adham\source\repos\Vezeta.APIs.Solution\Vezeta.Repository\bin\Debug\net6.0\Vezeta.Core.pdb
+C:\Users\Adham\source\repos\Vezeta.APIs.Solution\Vezeta.Repository\obj\Debug\net6.0\Vezeta.Repository.csproj.AssemblyReference.cache
+C:\Users\Adham\source\repos\Vezeta.APIs.Solution\Vezeta.Repository\obj\Debug\net6.0\Vezeta.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adham\source\repos\Vezeta.APIs.Solution\Vezeta.Repository\obj\Debug\net6.0\Vezeta.Repository.AssemblyInfoInputs.cache
+C:\Users\Adham\source\repos\Vezeta.APIs.Solution\Vezeta.Repository\obj\Debug\net6.0\Vezeta.Repository.AssemblyInfo.cs
+C:\Users\Adham\source\repos\Vezeta.APIs.Solution\Vezeta.Repository\obj\Debug\net6.0\Vezeta.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Adham\source\repos\Vezeta.APIs.Solution\Vezeta.Repository\obj\Debug\net6.0\Vezeta.Repository.csproj.CopyComplete
+C:\Users\Adham\source\repos\Vezeta.APIs.Solution\Vezeta.Repository\obj\Debug\net6.0\Vezeta.Repository.dll
+C:\Users\Adham\source\repos\Vezeta.APIs.Solution\Vezeta.Repository\obj\Debug\net6.0\refint\Vezeta.Repository.dll
+C:\Users\Adham\source\repos\Vezeta.APIs.Solution\Vezeta.Repository\obj\Debug\net6.0\Vezeta.Repository.pdb
+C:\Users\Adham\source\repos\Vezeta.APIs.Solution\Vezeta.Repository\obj\Debug\net6.0\ref\Vezeta.Repository.dll
